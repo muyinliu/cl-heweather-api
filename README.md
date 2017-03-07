@@ -27,7 +27,7 @@ Then in Common Lisp:
 ```
 
 ## Usage
-Note: Please use your own `*api-key*` comes from [heweather](http://www.heweather.cn/), for example:
+Note: Please use your own `*api-key*` comes from [HeWeather](http://www.heweather.cn/), for example:
 ```lisp
 (setf *api-key* "your-api-key")
 ```
