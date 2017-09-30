@@ -44,7 +44,7 @@ Result example:
 ```
 
 Note: More result example should check directory `/result-examples/`
-and [HeWeather API Document](http://www.kancloud.cn/hefengyun/weather/222344)
+and [HeWeather API Document](https://www.heweather.com/documents/api/v5)
 
 Note: More function please read file **cl-heweather-api.lisp**
 
