@@ -29,7 +29,7 @@ Then in Common Lisp:
 ## Usage
 Note: Please use your own `*api-key*` comes from [HeWeather](http://www.heweather.cn/), for example:
 ```lisp
-(setf *api-key* "your-api-key")
+(setf heweather:*api-key* "your-api-key")
 ```
 
 ### Get current weather information
